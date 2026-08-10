@@ -50,7 +50,7 @@ body {
   overflow-x: hidden;
 }
 
-img { max-width: 100%; display: block; }
+img { max-width: 100%; height: auto; display: block; }
 
 a { color: var(--ameixa); text-decoration: none; transition: color var(--transicao); }
 a:hover { color: var(--ameixa-escuro); }
