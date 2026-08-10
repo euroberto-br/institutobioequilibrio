@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://institutobioequilibrio.com.br/sitemap.xml
